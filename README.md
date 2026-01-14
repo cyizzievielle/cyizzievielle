@@ -12,12 +12,12 @@
 
 ### 💼 About Me
 
-🎓 Informatics Management student at Fasilkom Unsri
-💻 Passionate about Web Development, UI/UX Design, and interactive digital experiences
-🤖 Actively building and managing Discord Bots for automation, community features, and creative systems
-💼 Ex-Intern System Analyst at PT Bukit Asam — focused on system analysis & BRS documentation
-✨ Sometimes a coder, sometimes an aesthetic layout nerd
-🐱‍🏍 Always up for creative tech projects & experimental ideas
+- 🎓 Informatics Management student at Fasilkom Unsri
+- 💻 Passionate about Web Development, UI/UX Design, and interactive digital experiences
+- 🤖 Actively building and managing Discord Bots for automation, community features, and creative systems
+- 💼 Ex-Intern System Analyst at PT Bukit Asam — focused on system analysis & BRS documentation
+- ✨ Sometimes a coder, sometimes an aesthetic layout nerd
+- 🐱‍🏍 Always up for creative tech projects & experimental ideas
 
 ---
 
