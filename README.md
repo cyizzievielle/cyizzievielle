@@ -1,11 +1,11 @@
 <h1 align="center">Cisa Livia Virnandyka</h1>
 
 <p align="center">
-  <b>Informatics Management Student</b> · <b>System Analyst Enthusiast</b> · <b>Web Developer</b>
+  <b>Web Developer</b> · <b>Product Designer</b> · <b>Tech Explorer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=7C9DFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cisa+Livia+Virnandyka;Informatics+Management+Student;Web+Development+%7C+UI%2FUX+%7C+System+Analysis;Building+clean%2C+structured%2C+and+useful+digital+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7A1D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cisa+Livia+Virnandyka;Web+Developer+%7C+UI%2FUX+Enthusiast;Building+clean%2C+functional%2C+and+meaningful+digital+experiences;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,9 +16,7 @@
 
 ## About Me
 
-I am an Informatics Management student at Fakultas Ilmu Komputer, Universitas Sriwijaya, with a strong interest in web development, UI/UX design, system analysis, database design, and digital product development.
-
-I have experience as a System Analyst Intern at PT Bukit Asam Tbk, where I was involved in system analysis, Business Requirement Statement documentation, process flow design, and UML-based system modeling. I enjoy building digital solutions that are structured, functional, clean, and visually balanced.
+Building digital experiences with a focus on clean design, intuitive interfaces, and meaningful functionality. Always exploring new ideas, technologies, and creative ways to bring them to life.
 
 ---
 
