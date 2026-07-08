@@ -93,7 +93,7 @@ I have experience as a System Analyst Intern at PT Bukit Asam Tbk, where I was i
   <a href="https://mystralacademy.website" target="_blank">
     <img src="https://img.shields.io/badge/Mystral%20Academy-7C3AED?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://buildwithcisa.me" target="_blank">
+  <a href="https://littlethingsbycisa.tech" target="_blank">
     <img src="https://img.shields.io/badge/Build%20With%20Cisa-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -140,9 +140,9 @@ I have experience as a System Analyst Intern at PT Bukit Asam Tbk, where I was i
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Build With Cisa</h3>
+      <h3 align="center">Little Things by Cisa</h3>
       <p align="center">
-        A personal digital space for showcasing projects, technical exploration, web development progress, interface ideas, and creative technology experiments.
+        A personal digital space where I share creative projects, web experiments, design inspiration, development notes, and the little things I build while exploring technology.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square"/>
