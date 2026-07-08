@@ -94,7 +94,7 @@ I have experience as a System Analyst Intern at PT Bukit Asam Tbk, where I was i
     <img src="https://img.shields.io/badge/Mystral%20Academy-7C3AED?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://littlethingsbycisa.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Build%20With%20Cisa-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Little%20Things%20by%20Cisa-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
