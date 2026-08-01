@@ -1,11 +1,11 @@
-<h1 align="center">Cisa Livia Virnandyka</h1>
+<h1 align="center">Cyizzie</h1>
 
 <p align="center">
   <b>Web Developer</b> · <b>Product Designer</b> · <b>Tech Explorer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7A1D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cisa+Livia+Virnandyka;Web+Developer+%7C+UI%2FUX+Enthusiast;Building+clean%2C+functional%2C+and+meaningful+digital+experiences;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7A1D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cyizzie;Web+Developer+%7C+UI%2FUX+Enthusiast;Building+clean%2C+functional%2C+and+meaningful+digital+experiences;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
