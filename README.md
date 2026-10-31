@@ -1,378 +1,491 @@
 
-<!--
-  CYIZZIE | GITHUB PROFILE
-  Theme: Dreamy Pink Editorial
-  Primary: #F7A1D4
-  Secondary: #C9A4E8
-  Background: #100D1A
--->
+<!-- =====================================================
+     CYIZZIE | GITHUB PROFILE README
+     DREAMY PINK EDITORIAL
+     Primary: #F7A1D4
+     Secondary: #C9A4E8
+     Background: #100D1A
+====================================================== -->
 
-<!-- ================= HERO ================= -->
+<!-- HERO HEADER -->
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:100D1A,25:30213F,55:70466F,80:C58BBF,100:F7A1D4&text=Cyizzie&fontSize=76&fontColor=FFFFFF&fontAlignY=40&desc=building%20digital%20experiences&descSize=16&descAlignY=60&animation=fadeIn&fontAlign=50&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:100D1A,25:30213F,55:70466F,80:C58BBF,100:F7A1D4&text=Cyizzie&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=building%20digital%20experiences&descSize=16&descAlignY=58&animation=fadeIn&section=header"/>
 
-  <br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=F7A1D4&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Cyizzie;Web+Developer+%7C+System+Analyst;Turning+ideas+into+digital+experiences;Always+creating%2C+always+learning" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=F7A1D4&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Cyizzie;Web+Developer+%7C+System+Analyst;Turning+ideas+into+digital+experiences;Always+creating%2C+always+learning" />
+<br/><br/>
 
-  <br/><br/>
+<a href="https://littlethingsbycisa.tech">
+<img src="https://img.shields.io/badge/PORTFOLIO-211B2D?style=for-the-badge&logo=googlechrome&logoColor=F7A1D4"/>
+</a>
+<a href="https://github.com/cyizzievielle">
+<img src="https://img.shields.io/badge/GITHUB-211B2D?style=for-the-badge&logo=github&logoColor=F7A1D4"/>
+</a>
+<a href="https://www.linkedin.com/in/cisa-livia-virnandyka-23a530288/">
+<img src="https://img.shields.io/badge/LINKEDIN-211B2D?style=for-the-badge&logo=linkedin&logoColor=F7A1D4"/>
+</a>
 
-  <a href="https://littlethingsbycisa.tech">
-    <img src="https://img.shields.io/badge/PORTFOLIO-211B2D?style=for-the-badge&logo=googlechrome&logoColor=F7A1D4"/>
-  </a>
-  <a href="https://github.com/cyizzievielle">
-    <img src="https://img.shields.io/badge/GITHUB-211B2D?style=for-the-badge&logo=github&logoColor=F7A1D4"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cisa-livia-virnandyka-23a530288/">
-    <img src="https://img.shields.io/badge/LINKEDIN-211B2D?style=for-the-badge&logo=linkedin&logoColor=F7A1D4"/>
-  </a>
+<br/><br/>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=cyizzievielle&label=PROFILE+VIEWS&color=9D6A91&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=cyizzievielle&label=PROFILE+VIEWS&color=9D6A91&style=flat-square"/>
 
 </div>
 
 <br/>
 
-<!-- ================= INTRODUCTION ================= -->
+<!-- ABOUT ME -->
 
 <div align="center">
 
-  ## ABOUT ME
+## ABOUT ME
 
-  <sub>INFORMATICS MANAGEMENT GRADUATE</sub>
-
-  <br/><br/>
+<sub>INFORMATICS MANAGEMENT GRADUATE · INDONESIA</sub>
 
 </div>
 
-Hi, I'm **Cyizzie**, an Informatics Management graduate with an interest in web development, system analysis, and digital product design.
+<table>
+<tr>
+<td width="62%" valign="middle">
 
-I enjoy exploring how technology works, understanding problems, designing structured solutions, and transforming ideas into functional digital experiences.
+### Hello, I'm Cyizzie.
 
-My interests range from developing web applications and documenting business processes to building Discord bots and experimenting with creative digital projects.
+I'm an Informatics Management graduate interested in web development, system analysis, and digital product design.
 
-```yaml
-name: Cyizzie
-background: Informatics Management
-location: Indonesia
+I enjoy understanding how things work, translating ideas into structured solutions, and building applications that combine functionality with thoughtful design.
 
-interests:
-  - Web Development
-  - System Analysis
-  - UI/UX Design
-  - Database Design
-  - Discord Bot Development
+From web applications and business process documentation to Discord automation, I'm always exploring new ways to create meaningful digital experiences.
 
-currently_exploring:
-  - Modern Web Technologies
-  - REST API
-  - Software Architecture
-  - Digital Product Design
+<a href="https://littlethingsbycisa.tech">Explore my personal portfolio →</a>
 
-motto: "Build with purpose, create with curiosity."
-```
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cyizzievielle&show_icons=true&hide_border=true&bg_color=100D1A&title_color=F7A1D4&icon_color=C9A4E8&text_color=E8DDED&hide_title=true&include_all_commits=true" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-INDONESIA-211B2D?style=for-the-badge&labelColor=211B2D&color=9D6A91"/>
+
+<img src="https://img.shields.io/badge/FOCUS-WEB_%26_SYSTEMS-211B2D?style=for-the-badge&labelColor=211B2D&color=9D6A91"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- QUICK PROFILE -->
+
+<div align="center">
+
+## A LITTLE MORE ABOUT ME
+
+<sub>BEYOND THE CODE AND THE SCREEN</sub>
+
+<br/><br/>
+
+</div>
+
+<table>
+<tr align="center">
+<td width="25%">
+
+**01**
+
+<br/>
+
+Web Development
+
+<sub>Building digital products</sub>
+
+</td>
+<td width="25%">
+
+**02**
+
+<br/>
+
+System Analysis
+
+<sub>Understanding workflows</sub>
+
+</td>
+<td width="25%">
+
+**03**
+
+<br/>
+
+UI/UX Design
+
+<sub>Creating better experiences</sub>
+
+</td>
+<td width="25%">
+
+**04**
+
+<br/>
+
+Discord Development
+
+<sub>Building automation</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= FOCUS ================= -->
+<!-- TECH STACK -->
 
 <div align="center">
 
-  ## WHAT I DO
+## TECH STACK
 
-  <sub>AREAS I ENJOY WORKING ON</sub>
+<sub>TECHNOLOGIES I USE TO BRING IDEAS TO LIFE</sub>
 
 </div>
 
-### Web Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Building responsive web applications, developing frontend interfaces, and working with backend systems and databases.
+### Languages
 
-### System Analysis
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark"/>
+</p>
 
-Understanding business requirements, analyzing workflows, documenting system specifications, and modeling processes using UML diagrams.
+### Frameworks & Libraries
 
-### UI/UX Design
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,laravel,nodejs,express,flask&theme=dark"/>
+</p>
 
-Exploring interface design, visual hierarchy, usability, and creating clean and intuitive digital experiences.
+</td>
+<td width="50%" valign="top">
 
-### Discord Development
+### Database & Systems
 
-Developing Discord bots, automated workflows, interactive commands, and community management systems.
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,linux,ubuntu,docker&theme=dark"/>
+</p>
 
----
+### Development & Design Tools
 
-<!-- ================= TECH STACK ================= -->
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-  ## TECH STACK
-
-  <sub>TOOLS AND TECHNOLOGIES I WORK WITH</sub>
-
-</div>
-
-**Programming Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark"/>
-</p>
-
-**Frameworks and Libraries**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,laravel,nodejs,express,flask&theme=dark"/>
-</p>
-
-**Database and Operating Systems**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,linux,ubuntu,docker&theme=dark"/>
-</p>
-
-**Development and Design Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
-</p>
-
-**Additional Tools**
+<sub>ALSO FAMILIAR WITH</sub>
 
 `CodeIgniter 4` · `MariaDB` · `phpMyAdmin` · `Draw.io` · `Microsoft Office` · `Canva` · `Windows Server`
 
+</div>
+
 ---
 
-<!-- ================= EXPERIENCE ================= -->
+<!-- EXPERIENCE -->
 
 <div align="center">
 
-  ## EXPERIENCE
+## EXPERIENCE
 
-  <sub>LEARNING AND GROWING THROUGH REAL-WORLD PROJECTS</sub>
+<sub>MY JOURNEY INTO THE PROFESSIONAL WORLD</sub>
 
 </div>
+
+<table>
+<tr>
+<td width="22%" valign="top" align="center">
+
+**2025**
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/INTERNSHIP-F7A1D4?style=for-the-badge&logoColor=171321"/>
+
+</td>
+<td width="78%" valign="top">
 
 ### PT Bukit Asam Tbk
 
 **Application Development & Service / EIS**
 
-`June 2025 — August 2025` | Internship
+<sub>June 2025 — August 2025</sub>
 
-An internship experience within the Application Development & Service / EIS work unit, focusing on application workflows, business requirements, and technical documentation.
-
-**Responsibilities**
+An internship experience focused on business requirements, application workflows, and technical documentation.
 
 - Analyzed business workflows and application development processes.
 - Prepared Business Requirement Statements (BRS).
 - Created process flows and supporting system diagrams.
 - Documented user requirements and technical specifications.
-- Assisted in monitoring the development progress of CISEA modules.
+- Assisted in monitoring CISEA module development progress.
 
-`Business Requirements` · `System Analysis` · `Process Documentation`
+`Business Requirements` `System Analysis` `Process Documentation`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- SELECTED PROJECTS -->
 
 <div align="center">
 
-  ## SELECTED WORKS
+## SELECTED WORKS
 
-  <sub>A COLLECTION OF THINGS I'VE BUILT, DESIGNED AND DEVELOPED</sub>
+<sub>A COLLECTION OF THINGS I'VE BUILT, DESIGNED AND DEVELOPED</sub>
+
+<br/><br/>
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 01. SIMTA
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=SIMTA&fontSize=32&fontColor=F7A1D4&color=211B2D&animation=fadeIn"/>
 
 <sub>ACADEMIC INFORMATION SYSTEM</sub>
 
-A web-based final project management system developed to organize academic workflows, including supervisor requests, title submissions, proposal reviews, progress monitoring, and document management.
+</div>
+
+A web-based final project management system designed to organize academic workflows, including supervisor requests, title submissions, proposal reviews, progress monitoring, and document management.
 
 **Technologies**
 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-F7A1D4?style=flat-square&logo=codeigniter&logoColor=171321)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/CodeIgniter_4-F7A1D4?style=flat-square&logo=codeigniter&logoColor=171321"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-[Explore SIMTA](https://projectsimta.my.id)
+**[Explore SIMTA →](https://projectsimta.my.id)**
 
----
+</td>
+<td width="50%" valign="top">
 
-### 02. Mystral District
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=MYSTRAL&fontSize=32&fontColor=F7A1D4&color=211B2D&animation=fadeIn"/>
 
 <sub>DIGITAL COMMUNITY ECOSYSTEM</sub>
+
+</div>
 
 A creative community project focused on digital branding, Discord server management, interactive features, community engagement, and building a distinctive online identity.
 
 **Focus Areas**
 
-`Community Management` · `Digital Branding` · `Discord Systems` · `Creative Direction`
+`Community Management` `Digital Branding` `Discord Systems` `Creative Direction`
 
-[Visit Website](https://mystralacademy.website)
+**[Visit Website →](https://mystralacademy.website)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 03. Cyza & Relovie
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=CYZA+%26+RELOVIE&fontSize=28&fontColor=F7A1D4&color=211B2D&animation=fadeIn"/>
 
 <sub>DISCORD AUTOMATION PROJECTS</sub>
+
+</div>
 
 Discord bot projects featuring automation, interactive commands, community utilities, economy systems, relationship features, and custom server experiences.
 
 **Technologies**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
-[Explore Repositories](https://github.com/cyizzievielle)
+**[Explore Repositories →](https://github.com/cyizzievielle)**
 
----
+</td>
+<td width="50%" valign="top">
 
-### 04. Little Things by Cisa
+<div align="center">
 
-<sub>PERSONAL PORTFOLIO AND CREATIVE SPACE</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=LITTLE+THINGS&fontSize=27&fontColor=F7A1D4&color=211B2D&animation=fadeIn"/>
+
+<sub>PERSONAL PORTFOLIO & CREATIVE SPACE</sub>
+
+</div>
 
 A personal digital space showcasing creative projects, web experiments, design inspiration, development notes, and little things built along the way.
 
 **Technologies**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=171321)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=171321"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-[Visit Portfolio](https://littlethingsbycisa.tech)
+**[Visit Portfolio →](https://littlethingsbycisa.tech)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= LEARNING ================= -->
+<!-- CURRENTLY EXPLORING -->
 
 <div align="center">
 
-  ## CURRENTLY EXPLORING
+## CURRENTLY EXPLORING
 
-  <sub>CONTINUOUS LEARNING AND EXPERIMENTATION</sub>
+<sub>THERE IS ALWAYS SOMETHING NEW TO LEARN</sub>
 
-  <br/><br/>
+<br/><br/>
 
-  ![React](https://img.shields.io/badge/React-211B2D?style=for-the-badge&logo=react&logoColor=F7A1D4)
-  ![Laravel](https://img.shields.io/badge/Laravel-211B2D?style=for-the-badge&logo=laravel&logoColor=FF6B81)
-  ![REST API](https://img.shields.io/badge/REST_API-211B2D?style=for-the-badge&logo=fastapi&logoColor=F7A1D4)
-  ![Architecture](https://img.shields.io/badge/System_Architecture-211B2D?style=for-the-badge&logo=diagramsdotnet&logoColor=F7A1D4)
-  ![UI UX](https://img.shields.io/badge/UI%2FUX-211B2D?style=for-the-badge&logo=figma&logoColor=F7A1D4)
+<img src="https://img.shields.io/badge/React-211B2D?style=for-the-badge&logo=react&logoColor=F7A1D4"/>
+<img src="https://img.shields.io/badge/Laravel-211B2D?style=for-the-badge&logo=laravel&logoColor=FF6B81"/>
+<img src="https://img.shields.io/badge/REST_API-211B2D?style=for-the-badge&logo=fastapi&logoColor=F7A1D4"/>
+<img src="https://img.shields.io/badge/System_Architecture-211B2D?style=for-the-badge&logo=diagramsdotnet&logoColor=F7A1D4"/>
+<img src="https://img.shields.io/badge/UI%2FUX-211B2D?style=for-the-badge&logo=figma&logoColor=F7A1D4"/>
 
 </div>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- GITHUB STATISTICS -->
 
 <div align="center">
 
-  ## GITHUB OVERVIEW
+## GITHUB INSIGHTS
 
-  <sub>A LITTLE LOOK INTO MY DEVELOPMENT JOURNEY</sub>
+<sub>MY DEVELOPMENT ACTIVITY AT A GLANCE</sub>
 
-  <br/><br/>
+<br/><br/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyizzievielle&show_icons=true&hide_border=true&bg_color=100D1A&title_color=F7A1D4&icon_color=C9A4E8&text_color=E8DDED&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyizzievielle&show_icons=true&hide_border=true&bg_color=100D1A&title_color=F7A1D4&icon_color=C9A4E8&text_color=E8DDED&rank_icon=github&include_all_commits=true"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyizzievielle&layout=compact&hide_border=true&bg_color=100D1A&title_color=F7A1D4&text_color=E8DDED"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyizzievielle&layout=compact&hide_border=true&bg_color=100D1A&title_color=F7A1D4&text_color=E8DDED"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img width="75%" src="https://streak-stats.demolab.com?user=cyizzievielle&hide_border=true&background=100D1A&ring=F7A1D4&fire=C9A4E8&currStreakLabel=F7A1D4&sideLabels=C9A4E8&dates=9C8DA5&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=cyizzievielle&hide_border=true&background=100D1A&ring=F7A1D4&fire=C9A4E8&currStreakLabel=F7A1D4&sideLabels=C9A4E8&dates=9C8DA5&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
 ---
 
-<!-- ================= ACTIVITY ================= -->
+<!-- CONTRIBUTION GRAPH -->
 
 <div align="center">
 
-  ## CONTRIBUTION ACTIVITY
+## CONTRIBUTION ACTIVITY
 
-  <sub>EVERY SMALL STEP COUNTS</sub>
+<sub>EVERY SMALL STEP COUNTS</sub>
 
-  <br/><br/>
+<br/><br/>
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyizzievielle&bg_color=100D1A&color=F7A1D4&line=C58ABF&point=FFFFFF&area=true&hide_border=true&custom_title=Cyizzie's%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyizzievielle&bg_color=100D1A&color=F7A1D4&line=C58ABF&point=FFFFFF&area=true&hide_border=true&custom_title=Cyizzie's%20Contribution%20Graph"/>
 
 </div>
 
 ---
 
-<!-- ================= PERSONAL ================= -->
+<!-- PERSONAL SPACE -->
 
 <div align="center">
 
-  ## BEYOND THE CODE
+## BEYOND THE CODE
 
-  <sub>A FEW THINGS THAT MAKE ME, ME</sub>
+<sub>A LITTLE SPACE FOR THE THINGS I LOVE</sub>
+
+<br/><br/>
 
 </div>
 
-**Music**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Music
 
 Cigarettes After Sex, dreamy indie music, and late-night playlists.
 
-**Hobbies**
+**Current favorites**
 
-Kempo training, coding, writing, and gaming.
+`K.` · `Apocalypse` · `Touch` · `Sunsetz` · `Sweet` · `Heavenly`
 
-**Watchlist**
+</td>
+<td width="50%" valign="top">
 
-K-dramas, anime, and romance stories.
+### Hobbies
 
-**Reading**
+Kempo training, coding, writing, gaming, and exploring creative ideas.
 
-Manhwa. Just one more chapter.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Entertainment
+
+K-dramas, anime, romance stories, and interesting characters.
+
+</td>
+<td width="50%" valign="top">
+
+### Reading
+
+Manhwa, romance stories, and the classic promise of one more chapter.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- CONNECT -->
 
 <div align="center">
 
-  ## LET'S CONNECT
+## LET'S CONNECT
 
-  <sub>HAVE AN IDEA, A PROJECT, OR JUST WANT TO TALK ABOUT TECHNOLOGY?</sub>
+<sub>HAVE AN IDEA, A PROJECT, OR JUST WANT TO TALK ABOUT TECHNOLOGY?</sub>
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://github.com/cyizzievielle">
-    <img src="https://img.shields.io/badge/GitHub-211B2D?style=for-the-badge&logo=github&logoColor=F7A1D4"/>
-  </a>
+<a href="https://github.com/cyizzievielle">
+<img src="https://img.shields.io/badge/GitHub-211B2D?style=for-the-badge&logo=github&logoColor=F7A1D4"/>
+</a>
+<a href="https://www.linkedin.com/in/cisa-livia-virnandyka-23a530288/">
+<img src="https://img.shields.io/badge/LinkedIn-211B2D?style=for-the-badge&logo=linkedin&logoColor=F7A1D4"/>
+</a>
+<a href="https://instagram.com/cisalvrk">
+<img src="https://img.shields.io/badge/Instagram-211B2D?style=for-the-badge&logo=instagram&logoColor=F7A1D4"/>
+</a>
+<a href="mailto:cisalivia@gmail.com">
+<img src="https://img.shields.io/badge/Email-211B2D?style=for-the-badge&logo=gmail&logoColor=F7A1D4"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/cisa-livia-virnandyka-23a530288/">
-    <img src="https://img.shields.io/badge/LinkedIn-211B2D?style=for-the-badge&logo=linkedin&logoColor=F7A1D4"/>
-  </a>
+<br/><br/>
 
-  <a href="https://instagram.com/cisalvrk">
-    <img src="https://img.shields.io/badge/Instagram-211B2D?style=for-the-badge&logo=instagram&logoColor=F7A1D4"/>
-  </a>
+<i>"Somewhere between imagination and implementation, something meaningful begins."</i>
 
-  <a href="mailto:cisalivia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-211B2D?style=for-the-badge&logo=gmail&logoColor=F7A1D4"/>
-  </a>
+<br/><br/>
 
-  <br/><br/>
+<sub>DESIGNED WITH CURIOSITY. BUILT WITH PURPOSE.</sub>
 
-  <i>"Somewhere between imagination and implementation, something meaningful begins."</i>
+<br/><br/>
 
-  <br/><br/>
-
-  <sub>DESIGNED WITH CURIOSITY. BUILT WITH PURPOSE.</sub>
-
-  <br/><br/>
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:100D1A,25:30213F,55:70466F,80:C58BBF,100:F7A1D4&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:100D1A,25:30213F,55:70466F,80:C58BBF,100:F7A1D4&section=footer"/>
 
 </div>
