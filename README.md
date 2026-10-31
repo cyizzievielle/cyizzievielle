@@ -1,238 +1,287 @@
-<h1 align="center">Cyizzie</h1>
 
-<p align="center">
-  <b>Web Developer</b> · <b>Product Designer</b> · <b>Tech Explorer</b>
-</p>
+<!--
+  CYIZZIE — GitHub Profile README
+  Theme: Minimalist / Soft Pink / Developer Aesthetic
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7A1D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cyizzie;Web+Developer+%7C+UI%2FUX+Enthusiast;Building+clean%2C+functional%2C+and+meaningful+digital+experiences;Always+learning+new+technologies" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cisalivia/assets/main/snapshot-girl.gif" width="280" alt="Profile Animation"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,50:312E3D,100:F7A1D4&text=Cyizzie&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=building%20things%20with%20code%20and%20curiosity&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
 
----
+  <h3>Informatics Management Graduate</h3>
 
-## About Me
+  <p>
+    <code>Web Developer</code> ·
+    <code>System Analyst Enthusiast</code> ·
+    <code>UI/UX Explorer</code>
+  </p>
 
-Building digital experiences with a focus on clean design, intuitive interfaces, and meaningful functionality. Always exploring new ideas, technologies, and creative ways to bring them to life.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F7A1D4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cyizzie+%F0%9F%91%8B;Turning+ideas+into+digital+experiences;Exploring+systems%2C+design%2C+and+technology;Always+building%2C+always+learning." alt="Typing SVG" />
 
----
+  <br/>
 
-## Focus Areas
-
-- Web Development
-- Frontend Development
-- Backend Development
-- UI/UX Design
-- System Analysis
-- Business Requirement Documentation
-- UML Diagram Modeling
-- Database Design
-- Information System Development
-- Discord Bot Development
-- Digital Workflow Automation
-- Responsive Web Interface
-- Academic System Design
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,mysql,git,github,figma,vscode" />
-</p>
-
----
-
-## Frameworks & Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,laravel,bootstrap,nodejs,express,codeigniter,vite" />
-</p>
-
----
-
-## Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/phpMyAdmin-F59E0B?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Draw.io-FF9900?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
-
----
-
-## Development Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Analysis-2F3645?style=for-the-badge&logo=googledocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-7C3AED?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database%20Design-0284C7?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-16A34A?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-## Websites & Projects
-
-<p align="center">
-  <a href="https://projectsimta.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/SIMTA%20Project-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://littlethingsbycisa.tech">
+    <img src="https://img.shields.io/badge/Portfolio-F7A1D4?style=flat-square&logo=googlechrome&logoColor=111827" />
   </a>
-  <a href="https://mystralacademy.website" target="_blank">
-    <img src="https://img.shields.io/badge/Mystral%20Academy-7C3AED?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/cisa-livia-virnandyka-23a530288/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=F7A1D4" />
   </a>
-  <a href="https://littlethingsbycisa.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Little%20Things%20by%20Cisa-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="mailto:cisalivia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=F7A1D4" />
   </a>
-</p>
+
+</div>
 
 ---
 
-## Selected Projects
+## 01 / About Me
+
+```yaml
+name: Cyizzie
+background: Informatics Management
+location: Indonesia
+
+interests:
+  - Web Development
+  - System Analysis
+  - UI/UX Design
+  - Database Design
+  - Discord Bot Development
+
+currently:
+  - Exploring modern web technologies
+  - Building digital products and automation
+  - Learning and improving development workflows
+
+philosophy: "Build with purpose, design with intention."
+```
+
+I'm an Informatics Management graduate interested in the intersection of technology, system analysis, and digital product development.
+
+I enjoy understanding how things work, translating ideas into structured solutions, and building applications that are both functional and intuitive.
+
+From web applications to Discord automation, I'm always curious about what I can create next.
+
+---
+
+## 02 / What I Do
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">SIMTA Project</h3>
-      <p align="center">
-        A web-based information system designed to support final project title submission, proposal submission, supervisor request, academic status tracking, and document management.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Web%20System-2563EB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Academic%20Workflow-7C3AED?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Database%20Design-0284C7?style=flat-square"/>
-      </p>
+      <h3>⌘ Web Development</h3>
+      Building responsive web applications, developing frontend interfaces, and working with backend systems and databases.
     </td>
     <td width="50%">
-      <h3 align="center">Mystral Academy</h3>
-      <p align="center">
-        A creative community-based project with a dark academy concept, focusing on digital branding, community management, Discord features, and interactive server systems.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Community-5865F2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Discord%20System-7C3AED?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Branding-DB2777?style=flat-square"/>
-      </p>
+      <h3>⌕ System Analysis</h3>
+      Understanding business requirements, mapping workflows, documenting system specifications, and modeling processes with UML.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">System Analysis Documentation</h3>
-      <p align="center">
-        Documentation work involving Business Requirement Statement, process flow, use case diagram, activity diagram, sequence diagram, class diagram, and system requirement analysis.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/BRS-334155?style=flat-square"/>
-        <img src="https://img.shields.io/badge/UML-475569?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Process%20Flow-64748B?style=flat-square"/>
-      </p>
+      <h3>✳ UI/UX Exploration</h3>
+      Exploring interface design, visual hierarchy, usability, and creating clean digital experiences.
     </td>
     <td width="50%">
-      <h3 align="center">Little Things by Cisa</h3>
-      <p align="center">
-        A personal digital space where I share creative projects, web experiments, design inspiration, development notes, and the little things I build while exploring technology.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Creative%20Tech-2563EB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Web%20Design-7C3AED?style=flat-square"/>
-      </p>
+      <h3>⚙ Automation & Bots</h3>
+      Developing Discord bots, interactive community systems, and automated digital workflows.
     </td>
   </tr>
 </table>
 
 ---
 
-## Currently Learning
+## 03 / Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-EF4444?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-16A34A?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fullstack%20Development-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+**Languages & Core Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,laravel,nodejs,express" />
+</p>
+
+**Database & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,docker,linux,ubuntu" />
+</p>
+
+**Tools & Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+**Other tools:** CodeIgniter 4 · Draw.io · phpMyAdmin · Microsoft Office · Canva
+
+---
+
+## 04 / Experience
+
+### PT Bukit Asam Tbk
+
+**Application Development & Service / EIS**
+
+<sub>June 2025 — August 2025 · Internship</sub>
+
+- Assisted in analyzing business workflows and application development processes.
+- Worked on Business Requirement Statements (BRS) and system documentation.
+- Created process flows and supporting system diagrams.
+- Participated in monitoring and documenting the progress of CISEA module development.
+
+<sub>Focus: Business Requirements · Process Analysis · System Documentation</sub>
+
+---
+
+## 05 / Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SIMTA</h3>
+      <sub>Academic Information System</sub>
+      <p>
+        A web-based final project management system designed to organize academic workflows, from supervisor requests and title submissions to proposal reviews, progress monitoring, and document management.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/CodeIgniter_4-F7A1D4?style=flat-square&logo=codeigniter&logoColor=111827" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://projectsimta.my.id">↗ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mystral District</h3>
+      <sub>Digital Community & Ecosystem</sub>
+      <p>
+        A community-driven digital project focused on branding, Discord server management, interactive features, community engagement, and building a distinctive online experience.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/Community-F7A1D4?style=flat-square&logoColor=111827" />
+        <img src="https://img.shields.io/badge/Digital_Branding-18181B?style=flat-square" />
+      </p>
+      <a href="https://mystralacademy.website">↗ Visit Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Cyza & Relovie</h3>
+      <sub>Discord Automation Projects</sub>
+      <p>
+        Discord bot projects featuring automation, interactive commands, community utilities, relationship systems, economy features, and custom server experiences.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <a href="https://github.com/cyizzievielle">↗ Explore Repositories</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Little Things by Cisa</h3>
+      <sub>Personal Portfolio & Creative Space</sub>
+      <p>
+        A personal digital space for showcasing creative experiments, web development projects, design explorations, and things I build along the way.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <a href="https://littlethingsbycisa.tech">↗ Explore Portfolio</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 06 / Currently Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/Advanced_React-18181B?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/REST_API-18181B?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/System_Architecture-18181B?style=flat-square&logo=diagramsdotnet&logoColor=F7A1D4" />
+  <img src="https://img.shields.io/badge/UI%2FUX-18181B?style=flat-square&logo=figma&logoColor=F7A1D4" />
 </p>
 
 ---
 
-## GitHub Activity
+## 07 / GitHub Overview
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyizzievielle&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/cyizzievielle?style=for-the-badge&color=2563EB&labelColor=0F172A" />
-  <img src="https://img.shields.io/github/stars/cyizzievielle?style=for-the-badge&color=F59E0B&labelColor=0F172A" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyizzievielle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyizzievielle&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=cyizzievielle&label=PROFILE+VIEWS&color=F7A1D4&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/cyizzievielle?label=FOLLOWERS&style=flat-square&color=18181B" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyizzievielle&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+  <br/><br/>
 
----
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyizzievielle&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7A1D4&icon_color=F7A1D4&text_color=C9D1D9&rank_icon=github" />
 
-## Contribution Graph
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyizzievielle&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7A1D4&text_color=C9D1D9" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyizzievielle&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+  <br/><br/>
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=cyizzievielle&hide_border=true&background=0D1117&ring=F7A1D4&fire=F7A1D4&currStreakLabel=F7A1D4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
 
 ---
 
-## Commit & Repository Overview
+## 08 / Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyizzievielle&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyizzievielle&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyizzievielle&theme=tokyonight" />
-</p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyizzievielle&bg_color=0D1117&color=F7A1D4&line=F7A1D4&point=FFFFFF&area=true&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyizzievielle&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyizzievielle&theme=tokyonight&utcOffset=7" />
-</p>
+</div>
 
 ---
 
-## Connect with Me
+## 09 / Beyond the Code
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cisa-livia-virnandyka-23a530288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+```text
+currently enjoying:
+  music       → Cigarettes After Sex
+  hobbies     → kempo, coding, writing, gaming
+  watchlist   → k-dramas, anime
+  reading     → manhwa (one more chapter...)
+  aesthetic   → pink, black, minimal, melancholic
+```
+
+---
+
+<div align="center">
+
+  <h3>Let's Connect</h3>
+
+  <p>Have an idea, a project, or just want to talk about tech?</p>
+
+  <a href="https://github.com/cyizzievielle">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=F7A1D4" />
+  </a>
+  <a href="https://www.linkedin.com/in/cisa-livia-virnandyka-23a530288/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=F7A1D4" />
+  </a>
+  <a href="https://instagram.com/cisalvrk">
+    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=F7A1D4" />
   </a>
   <a href="mailto:cisalivia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=F7A1D4" />
   </a>
-  <a href="https://github.com/cyizzievielle" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/cisalvrk" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-DB2777?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
----
+  <br/><br/>
 
-<p align="center">
-  <i>Designing structured systems, building clean interfaces, and turning ideas into digital solutions.</i>
-</p>
+  <i>"A little curiosity can turn into something meaningful."</i>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:DB2777&height=120&section=footer"/>
-</p>
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E3D,100:F7A1D4&height=120&section=footer" width="100%" />
+
+</div>
